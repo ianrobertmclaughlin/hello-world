@@ -6,3 +6,5 @@ and another change
 and yet another change
 -----
 these are the changes for branch3
+----
+changes for branch4
