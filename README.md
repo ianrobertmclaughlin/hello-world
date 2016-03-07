@@ -4,3 +4,5 @@ the quick brown fox jumps over the lazy dog
 some more spurious text
 and another change
 and yet another change
+-----
+these are the changes for branch3
